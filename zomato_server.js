@@ -1,24 +1,24 @@
 const express = require('express')
 var http =  require('https');
+const { API_URL, USER_KEY, PORT} = require('./config');
+
 const app = express()
-const port = 3000
+const port = PORT
 
 app.get('/', (req, res) => res.send('Welcome to Make REST API Calls In Express!'))
 
 app.get('/geocode/:lat/:long', function (req, response, next) {
     let lat = req.params.lat;
     let long = req.params.long
-    let url = `https://developers.zomato.com/api/v2.1/geocode?lat=${lat}&lon=${long}`
+    let url = `${API_URL}geocode?lat=${lat}&lon=${long}`
 
     // request -> http://localhost:3000/geocode/40.730610/-73.935242#`
-
-    let user_key = 'daa1df830df8b3376b10ae9fe57ba59f';  
   
     let options = {
       host: url,
       method: 'GET',
       headers: {
-        'user-key': user_key,
+        'user-key': USER_KEY,
         'Content-Type': 'application/json',
       }
     };
