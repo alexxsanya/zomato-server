@@ -13,4 +13,4 @@ API_URL=https://...................
 ```
 
 - run `$ npm install` to install project dependencies
-- run `$ node zomato_server.js` to run the server
+- run `$ npm run start_local` to run the server
