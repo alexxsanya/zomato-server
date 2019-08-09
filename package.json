@@ -1,0 +1,21 @@
+{
+  "name": "zomato_server",
+  "version": "1.0.0",
+  "description": "make api request to zomato servers",
+  "main": "zomato_server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "y": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zomato"
+  ],
+  "author": "alexxsanya@gmail.com",
+  "license": "ISC"
+}
