@@ -1,0 +1,619 @@
+{
+    "location": {
+        "entity_type": "subzone",
+        "entity_id": 170238,
+        "title": "Hunters Point",
+        "latitude": "40.7476941147",
+        "longitude": "-73.9390038075",
+        "city_id": 280,
+        "city_name": "New York City",
+        "country_id": 216,
+        "country_name": "United States"
+    },
+    "popularity": {
+        "popularity": "4.78",
+        "nightlife_index": "4.62",
+        "nearby_res": [
+            "16777242",
+            "16781746",
+            "16782291",
+            "16764544",
+            "16781406",
+            "16769216",
+            "16786102",
+            "16786792",
+            "16782811"
+        ],
+        "top_cuisines": [
+            "American",
+            "Cafe",
+            "Bar Food",
+            "Sandwich",
+            "Desserts"
+        ],
+        "popularity_res": "100",
+        "nightlife_res": "10",
+        "subzone": "Williamsburg",
+        "subzone_id": 114256,
+        "city": "New York City"
+    },
+    "link": "https:\/\/www.zomato.com\/new-york-city\/hunters-point-restaurants",
+    "nearby_restaurants": [
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16777242
+                },
+                "apikey": "daa1df830df8b3376b10ae9fe57ba59f",
+                "id": "16777242",
+                "name": "Sea Restaurant",
+                "url": "https:\/\/www.zomato.com\/new-york-city\/sea-restaurant-north-williamsburg-north-side?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "114 N 6th Street, Brooklyn 11249",
+                    "locality": "North Williamsburg - North Side",
+                    "city": "New York City",
+                    "city_id": 280,
+                    "latitude": "40.7182055556",
+                    "longitude": "-73.9598388889",
+                    "zipcode": "11249",
+                    "country_id": 216,
+                    "locality_verbose": "North Williamsburg - North Side"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "Asian, Thai",
+                "average_cost_for_two": 50,
+                "price_range": 3,
+                "currency": "$",
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16777242_RESTAURANT_8db1aeeda8b9d6c71adba7d5c695fdeb_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.6",
+                    "rating_text": "Excellent",
+                    "rating_color": "3F7E00",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.6"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "900"
+                        }
+                    },
+                    "votes": "616"
+                },
+                "photos_url": "https:\/\/www.zomato.com\/new-york-city\/sea-restaurant-north-williamsburg-north-side\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "menu_url": "https:\/\/www.zomato.com\/new-york-city\/sea-restaurant-north-williamsburg-north-side\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16777242_RESTAURANT_8db1aeeda8b9d6c71adba7d5c695fdeb_c.jpg",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "include_bogo_offers": true,
+                "deeplink": "zomato:\/\/restaurant\/16777242",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https:\/\/www.zomato.com\/new-york-city\/sea-restaurant-north-williamsburg-north-side\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16781746
+                },
+                "apikey": "daa1df830df8b3376b10ae9fe57ba59f",
+                "id": "16781746",
+                "name": "Fette Sau",
+                "url": "https:\/\/www.zomato.com\/new-york-city\/fette-sau-north-williamsburg-north-side?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "354 Metropolitan Avenue 11211",
+                    "locality": "North Williamsburg - North Side",
+                    "city": "New York City",
+                    "city_id": 280,
+                    "latitude": "40.7140300000",
+                    "longitude": "-73.9567700000",
+                    "zipcode": "11211",
+                    "country_id": 216,
+                    "locality_verbose": "North Williamsburg - North Side"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "American, BBQ",
+                "average_cost_for_two": 75,
+                "price_range": 4,
+                "currency": "$",
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/16781746\/45c10cae0ad7b30b3517f7a5802b18d1.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.5",
+                    "rating_text": "Excellent",
+                    "rating_color": "3F7E00",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.5"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": "274"
+                },
+                "photos_url": "https:\/\/www.zomato.com\/new-york-city\/fette-sau-north-williamsburg-north-side\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "menu_url": "https:\/\/www.zomato.com\/new-york-city\/fette-sau-north-williamsburg-north-side\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/16781746\/45c10cae0ad7b30b3517f7a5802b18d1.jpg?output-format=webp",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "include_bogo_offers": true,
+                "deeplink": "zomato:\/\/restaurant\/16781746",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https:\/\/www.zomato.com\/new-york-city\/fette-sau-north-williamsburg-north-side\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16782291
+                },
+                "apikey": "daa1df830df8b3376b10ae9fe57ba59f",
+                "id": "16782291",
+                "name": "Five Leaves",
+                "url": "https:\/\/www.zomato.com\/new-york-city\/five-leaves-greenpoint?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "18 Bedford Avenue, Brooklyn 11222",
+                    "locality": "Bedford Avenue, Greenpoint",
+                    "city": "New York City",
+                    "city_id": 280,
+                    "latitude": "40.7235055556",
+                    "longitude": "-73.9514527778",
+                    "zipcode": "11222",
+                    "country_id": 216,
+                    "locality_verbose": "Bedford Avenue, Greenpoint, New York City"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "New American, Australian",
+                "average_cost_for_two": 70,
+                "price_range": 4,
+                "currency": "$",
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16782291_RESTAURANT_a9eee2f9fdef1d6b08eaeb4f42b4366f_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.3",
+                    "rating_text": "Very Good",
+                    "rating_color": "5BA829",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.3"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": "136"
+                },
+                "photos_url": "https:\/\/www.zomato.com\/new-york-city\/five-leaves-greenpoint\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "menu_url": "https:\/\/www.zomato.com\/new-york-city\/five-leaves-greenpoint\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16782291_RESTAURANT_a9eee2f9fdef1d6b08eaeb4f42b4366f_c.jpg",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "include_bogo_offers": true,
+                "deeplink": "zomato:\/\/restaurant\/16782291",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https:\/\/www.zomato.com\/new-york-city\/five-leaves-greenpoint\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16764544
+                },
+                "apikey": "daa1df830df8b3376b10ae9fe57ba59f",
+                "id": "16764544",
+                "name": "Peter Pan Donut & Pastry Shop",
+                "url": "https:\/\/www.zomato.com\/new-york-city\/peter-pan-donut-pastry-shop-williamsburg?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "727 Manhattan Avenue, Brooklyn 11222",
+                    "locality": "Williamsburg",
+                    "city": "New York City",
+                    "city_id": 280,
+                    "latitude": "40.7260410000",
+                    "longitude": "-73.9522730000",
+                    "zipcode": "11222",
+                    "country_id": 216,
+                    "locality_verbose": "Williamsburg"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "Donuts",
+                "average_cost_for_two": 25,
+                "price_range": 2,
+                "currency": "$",
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/16764544\/88ebfbde5f7d2dcf898d202aaa1db688.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.3",
+                    "rating_text": "Very Good",
+                    "rating_color": "5BA829",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.3"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": "120"
+                },
+                "photos_url": "https:\/\/www.zomato.com\/new-york-city\/peter-pan-donut-pastry-shop-williamsburg\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "menu_url": "https:\/\/www.zomato.com\/new-york-city\/peter-pan-donut-pastry-shop-williamsburg\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https:\/\/b.zmtcdn.com\/data\/pictures\/4\/16764544\/88ebfbde5f7d2dcf898d202aaa1db688.jpg",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "include_bogo_offers": true,
+                "deeplink": "zomato:\/\/restaurant\/16764544",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https:\/\/www.zomato.com\/new-york-city\/peter-pan-donut-pastry-shop-williamsburg\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16781406
+                },
+                "apikey": "daa1df830df8b3376b10ae9fe57ba59f",
+                "id": "16781406",
+                "name": "Zenkichi",
+                "url": "https:\/\/www.zomato.com\/new-york-city\/zenkichi-north-williamsburg-north-side?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "77 N 6th Street, Brooklyn 11211",
+                    "locality": "North Williamsburg - North Side",
+                    "city": "New York City",
+                    "city_id": 280,
+                    "latitude": "40.7189860000",
+                    "longitude": "-73.9606960000",
+                    "zipcode": "11211",
+                    "country_id": 216,
+                    "locality_verbose": "North Williamsburg - North Side"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "Asian, Japanese, Tapas",
+                "average_cost_for_two": 50,
+                "price_range": 3,
+                "currency": "$",
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/16781406\/6e39ec17c72fb2f0d792d9524e75b72d.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.2",
+                    "rating_text": "Very Good",
+                    "rating_color": "5BA829",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.2"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": "85"
+                },
+                "photos_url": "https:\/\/www.zomato.com\/new-york-city\/zenkichi-north-williamsburg-north-side\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "menu_url": "https:\/\/www.zomato.com\/new-york-city\/zenkichi-north-williamsburg-north-side\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https:\/\/b.zmtcdn.com\/data\/pictures\/6\/16781406\/6e39ec17c72fb2f0d792d9524e75b72d.jpg?output-format=webp",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "include_bogo_offers": true,
+                "deeplink": "zomato:\/\/restaurant\/16781406",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https:\/\/www.zomato.com\/new-york-city\/zenkichi-north-williamsburg-north-side\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16769216
+                },
+                "apikey": "daa1df830df8b3376b10ae9fe57ba59f",
+                "id": "16769216",
+                "name": "Juliette",
+                "url": "https:\/\/www.zomato.com\/new-york-city\/juliette-north-williamsburg-north-side?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "135 N 5th Street, Brooklyn 11211",
+                    "locality": "North Williamsburg - North Side",
+                    "city": "New York City",
+                    "city_id": 280,
+                    "latitude": "40.7168666667",
+                    "longitude": "-73.9592527778",
+                    "zipcode": "11211",
+                    "country_id": 216,
+                    "locality_verbose": "North Williamsburg - North Side"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "French, Mediterranean",
+                "average_cost_for_two": 80,
+                "price_range": 4,
+                "currency": "$",
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16769216_RESTAURANT_7fcff65fe47677fcca295a8db63aad7b_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.1",
+                    "rating_text": "Very Good",
+                    "rating_color": "5BA829",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.1"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": "81"
+                },
+                "photos_url": "https:\/\/www.zomato.com\/new-york-city\/juliette-north-williamsburg-north-side\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "menu_url": "https:\/\/www.zomato.com\/new-york-city\/juliette-north-williamsburg-north-side\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16769216_RESTAURANT_7fcff65fe47677fcca295a8db63aad7b_c.jpg",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "include_bogo_offers": true,
+                "deeplink": "zomato:\/\/restaurant\/16769216",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https:\/\/www.zomato.com\/new-york-city\/juliette-north-williamsburg-north-side\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16786102
+                },
+                "apikey": "daa1df830df8b3376b10ae9fe57ba59f",
+                "id": "16786102",
+                "name": "Mable's Smokehouse & Banquet Hall",
+                "url": "https:\/\/www.zomato.com\/new-york-city\/mables-smokehouse-banquet-hall-greenpoint?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "44 Berry Street, Brooklyn 11249",
+                    "locality": "Greenpoint",
+                    "city": "New York City",
+                    "city_id": 280,
+                    "latitude": "40.7209138889",
+                    "longitude": "-73.9571388889",
+                    "zipcode": "11249",
+                    "country_id": 216,
+                    "locality_verbose": "Greenpoint"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "American, BBQ, Southern",
+                "average_cost_for_two": 75,
+                "price_range": 4,
+                "currency": "$",
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/16786102\/cc7296ae9f17360b330bc1db53824c84.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.2",
+                    "rating_text": "Very Good",
+                    "rating_color": "5BA829",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.2"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": "42"
+                },
+                "photos_url": "https:\/\/www.zomato.com\/new-york-city\/mables-smokehouse-banquet-hall-greenpoint\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "menu_url": "https:\/\/www.zomato.com\/new-york-city\/mables-smokehouse-banquet-hall-greenpoint\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https:\/\/b.zmtcdn.com\/data\/pictures\/2\/16786102\/cc7296ae9f17360b330bc1db53824c84.jpg",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "include_bogo_offers": true,
+                "deeplink": "zomato:\/\/restaurant\/16786102",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https:\/\/www.zomato.com\/new-york-city\/mables-smokehouse-banquet-hall-greenpoint\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16786792
+                },
+                "apikey": "daa1df830df8b3376b10ae9fe57ba59f",
+                "id": "16786792",
+                "name": "The Meatball Shop",
+                "url": "https:\/\/www.zomato.com\/new-york-city\/the-meatball-shop-north-williamsburg-north-side?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "170 Bedford Avenue, Brooklyn 11211",
+                    "locality": "North Williamsburg - North Side",
+                    "city": "New York City",
+                    "city_id": 280,
+                    "latitude": "40.7182500000",
+                    "longitude": "-73.9573666667",
+                    "zipcode": "11211",
+                    "country_id": 216,
+                    "locality_verbose": "North Williamsburg - North Side"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "American, Italian, Sandwich",
+                "average_cost_for_two": 50,
+                "price_range": 3,
+                "currency": "$",
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16784825_CHAIN_cdaf631b09b978f41c3250fb1dd8dd32_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.1",
+                    "rating_text": "Very Good",
+                    "rating_color": "5BA829",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.1"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": "68"
+                },
+                "photos_url": "https:\/\/www.zomato.com\/new-york-city\/the-meatball-shop-north-williamsburg-north-side\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "menu_url": "https:\/\/www.zomato.com\/new-york-city\/the-meatball-shop-north-williamsburg-north-side\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16784825_CHAIN_cdaf631b09b978f41c3250fb1dd8dd32_c.jpg",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "include_bogo_offers": true,
+                "deeplink": "zomato:\/\/restaurant\/16786792",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https:\/\/www.zomato.com\/new-york-city\/the-meatball-shop-north-williamsburg-north-side\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+            }
+        },
+        {
+            "restaurant": {
+                "R": {
+                    "has_menu_status": {
+                        "delivery": -1,
+                        "takeaway": -1
+                    },
+                    "res_id": 16782811
+                },
+                "apikey": "daa1df830df8b3376b10ae9fe57ba59f",
+                "id": "16782811",
+                "name": "Caracas Arepa Bar",
+                "url": "https:\/\/www.zomato.com\/new-york-city\/caracas-arepa-bar-north-williamsburg-north-side?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+                "location": {
+                    "address": "291, Grand Street, Brooklyn 11211",
+                    "locality": "North Williamsburg - North Side",
+                    "city": "New York City",
+                    "city_id": 280,
+                    "latitude": "40.7132555556",
+                    "longitude": "-73.9574194444",
+                    "zipcode": "11211",
+                    "country_id": 216,
+                    "locality_verbose": "North Williamsburg - North Side"
+                },
+                "switch_to_order_menu": 0,
+                "cuisines": "Latin American, Venezuelan",
+                "average_cost_for_two": 60,
+                "price_range": 4,
+                "currency": "$",
+                "offers": [],
+                "opentable_support": 0,
+                "is_zomato_book_res": 0,
+                "mezzo_provider": "OTHER",
+                "is_book_form_web_view": 0,
+                "book_form_web_view_url": "",
+                "book_again_url": "",
+                "thumb": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16762096_CHAIN_77e6b22932e4ffbdff4881348b69286e_c.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "user_rating": {
+                    "aggregate_rating": "4.3",
+                    "rating_text": "Very Good",
+                    "rating_color": "5BA829",
+                    "rating_obj": {
+                        "title": {
+                            "text": "4.3"
+                        },
+                        "bg_color": {
+                            "type": "lime",
+                            "tint": "700"
+                        }
+                    },
+                    "votes": "77"
+                },
+                "photos_url": "https:\/\/www.zomato.com\/new-york-city\/caracas-arepa-bar-north-williamsburg-north-side\/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+                "menu_url": "https:\/\/www.zomato.com\/new-york-city\/caracas-arepa-bar-north-williamsburg-north-side\/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+                "featured_image": "https:\/\/b.zmtcdn.com\/data\/res_imagery\/16762096_CHAIN_77e6b22932e4ffbdff4881348b69286e_c.png",
+                "has_online_delivery": 0,
+                "is_delivering_now": 0,
+                "include_bogo_offers": true,
+                "deeplink": "zomato:\/\/restaurant\/16782811",
+                "is_table_reservation_supported": 0,
+                "has_table_booking": 0,
+                "events_url": "https:\/\/www.zomato.com\/new-york-city\/caracas-arepa-bar-north-williamsburg-north-side\/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+            }
+        }
+    ]
+}
