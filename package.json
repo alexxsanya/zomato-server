@@ -4,7 +4,7 @@
   "description": "make api request to zomato servers",
   "main": "zomato_server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http": "0.0.0",
     "https": "^1.0.0",
     "y": "^0.3.2"
